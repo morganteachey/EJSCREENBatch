@@ -53,6 +53,8 @@ library(EJSCREENbatch)
 An overview of the package, example use of its functions, and additional
 documentation are available in the vignette directory.
 
+![Overview of EJSCREEN inputs and outputs](/docs/assests/EJSCREENbatch_summary.pdf)
+
 ## EPA Disclaimer
 
 The United States Environmental Protection Agency (EPA) GitHub project
