@@ -48,10 +48,9 @@ install_github('USEPA/EJSCREENbatch', build_vignettes=TRUE)
 library(EJSCREENbatch)
 ```
 
-## Example
+## Description
 
-An overview of the package, example use of its functions, and additional
-documentation are available in the vignette directory.
+Below is a visual overview of the package, highlighting the input types, primary data sources, and examples of output graphics. Three primary data types can be input: coordinates, NHDplus common identifiers (ComIDs), and shape files (polygons). The package offers two buffering methods and can accept multiple buffer distances at a time. The user can chose to output summary plots and tables in addition to the returned raw dataframe. Additional documentation and a demonstration on how to leverage the package's functional are available in the vignette directory.
 
 ![Overview of EJSCREEN inputs and outputs](/docs/assests/EJSCREENbatch_overview_single_slide.jpg)
 
